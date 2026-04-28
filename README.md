@@ -11,7 +11,6 @@ Internet Connection
 Computer / Laptop
 ```
 ## Theory
-
 Sampling is the process of converting a continuous-time signal into a discrete-time signal by taking samples at regular time intervals.
 
 According to the Nyquist Sampling Theorem, the sampling frequency must be at least twice the maximum frequency of the signal to avoid distortion.
@@ -35,7 +34,6 @@ According to the Nyquist Sampling Theorem, the sampling frequency must be at lea
 - Small distortion may occur due to finite pulse width.
 
 ---
-
 ### 3. Flat-top Sampling
 
 - In flat-top sampling, the sampled value is held constant for a short duration.
